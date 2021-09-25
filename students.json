@@ -1,12 +1,12 @@
 var sourceData = 
 [
 {"SNo":"1","Name":"HIMANSHU KUMAR PREMI","ImageID":"himanshu-kumar-premi25","Total":"100","Attempted":"10","Rank":"1"},
-{"SNo":"2","Name":"PRAVEEN KUMAR","ImageID":"praveen-kumar28","Total":"100","Attempted":"10","Rank":"1"},
-{"SNo":"3","Name":"AARUSHI SINGH","ImageID":"aarushi-singh28","Total":"99","Attempted":"10","Rank":"2"},
-{"SNo":"4","Name":"KUNAL KUMAR VATSA","ImageID":"kunal-kumar-vatsa20","Total":"99","Attempted":"10","Rank":"2"},
-{"SNo":"5","Name":"KUMARI SHALINI SAHAY","ImageID":"kumari-shalini-sahay23","Total":"99","Attempted":"10","Rank":"2"},
-{"SNo":"6","Name":"SARIKA MISHRA","ImageID":"sarika-mishra-25","Total":"99","Attempted":"10","Rank":"2"},
-{"SNo":"7","Name":"UJJWAL KUMAR","ImageID":"ujjwal-kumar26","Total":"99","Attempted":"10","Rank":"2"},
+{"SNo":"2","Name":"KUNAL KUMAR VATSA","ImageID":"kunal-kumar-vatsa20","Total":"100","Attempted":"10","Rank":"1"},
+{"SNo":"3","Name":"PRAVEEN KUMAR","ImageID":"praveen-kumar28","Total":"100","Attempted":"10","Rank":"1"},
+{"SNo":"4","Name":"UJJWAL KUMAR","ImageID":"ujjwal-kumar26","Total":"100","Attempted":"10","Rank":"1"},
+{"SNo":"5","Name":"AARUSHI SINGH","ImageID":"aarushi-singh28","Total":"99","Attempted":"10","Rank":"2"},
+{"SNo":"6","Name":"KUMARI SHALINI SAHAY","ImageID":"kumari-shalini-sahay23","Total":"99","Attempted":"10","Rank":"2"},
+{"SNo":"7","Name":"SARIKA MISHRA","ImageID":"sarika-mishra-25","Total":"99","Attempted":"10","Rank":"2"},
 {"SNo":"8","Name":"SHOBHA BHARTI","ImageID":"shobha-bharti27","Total":"80","Attempted":"9","Rank":"3"},
 {"SNo":"9","Name":"ASHISH NANDAN","ImageID":"ashish-nandan22","Total":"79","Attempted":"10","Rank":"4"},
 {"SNo":"10","Name":"PUJA KUMARI","ImageID":"puja-kumari25","Total":"79","Attempted":"9","Rank":"4"},
